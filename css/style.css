@@ -27,3 +27,13 @@ font-weight: 700;
     color: white;
     font-weight: 500;
 }
+.q7{
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Roboto Serif', serif;
+    color: white;
+    padding: 12px 25px;
+    background-color: #74C6D4;
+    border: 2px solid white;
+    border-radius: 20px;
+}
