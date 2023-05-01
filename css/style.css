@@ -4,7 +4,14 @@
 .nav-link{
     font-weight: 600;
     font-size: 19px;
+    margin-left: 5px;
 }
 .navbar-nav{
-    margin-left: 350px;
+    margin-left: 310px;
+}
+.q3{
+    font-weight: 600;
+    font-size: 19px;
+    margin-left: 5px;
+    color: red;
 }
