@@ -1,3 +1,10 @@
 .navbar{
     background-color: #FFFFFF;
 }
+.nav-link{
+    font-weight: 600;
+    font-size: 19px;
+}
+.navbar-nav{
+    margin-left: 350px;
+}
