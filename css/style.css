@@ -70,4 +70,17 @@ font-weight: 700;
     color: white;
     margin-left: 25px;
     font-weight: 700;
+    font-family: 'Roboto Serif', serif;
+    font-size: 35px;
+}
+.e1{
+    background-image: url(https://0201.nccdn.net/1_2/000/000/176/d11/confeti.png);
+    background-color: #74C6D4;
+}
+.e3{
+    color: white;
+    font-family: 'Roboto Serif', serif;
+    font-weight: 700;
+   
+    margin-left: 25px;   
 }
