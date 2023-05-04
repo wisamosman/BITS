@@ -68,7 +68,7 @@ font-weight: 700;
 }
 .e2{
     color: white;
-    margin-left: 25px;
+    margin-left: 28px;
     font-weight: 700;
     font-family: 'Roboto Serif', serif;
     font-size: 35px;
@@ -80,7 +80,19 @@ font-weight: 700;
 .e3{
     color: white;
     font-family: 'Roboto Serif', serif;
-    font-weight: 700;
+    font-weight: 500;
    
-    margin-left: 25px;   
+    margin-left: 28px;   
+}
+.e5{
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Roboto Serif', serif;
+    color: white;
+    padding: 15px 25px;
+    background-color: #74C6D4;
+    border: 2px solid white;
+    border-radius: 24px;
+    border: 2px solid white;
+    margin-left: 28px;
 }
