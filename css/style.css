@@ -41,10 +41,11 @@ font-weight: 700;
     
 }
 .w2{
-    margin-left: 100px;
+    margin-left: 50px;
     width: 550px;
 }
 .w3{
     color: #74C6D4;
     font-family: 'Roboto Serif', serif;
+    font-weight: 700;
 }
